@@ -1,7 +1,8 @@
 # Sidney Bryson, Ph.D.
 
 NVIDIA Internal Resume | Engineering Manager, AI Infrastructure and NIM Factory  
-sbryson@nvidia.com | +1 331-228-0002
+sbryson@nvidia.com | +1 331-228-0002  
+Prepared by Codex
 
 ## Executive Profile
 
@@ -118,10 +119,3 @@ Late 2024 to Present
 - Use automation and agents to reduce human toil while preserving accountable human review at release-risk points.
 - Build dashboards, reports, and source-backed status so leadership can make decisions from evidence.
 - Lead through cross-functional alignment: engineering, TPM, product, SWQA, legal/compliance, security, DevRel, NGC, field, and customers.
-
-## Source Notes - Remove Before External Sharing
-
-- Glean was requested but unavailable in this session because `GLEAN_COOKIE` was not set and local browser cookie extraction was blocked by the app security policy. This draft is therefore grounded in Outlook, Slack, and local evidence instead of live Glean results.
-- Outlook sources included: "Clara Holoscan Deployment LHA Top 5 WK 51" from December 17, 2021; "Holoscan SDK v0.4 Release is LIVE on GitHub & NGC" from December 2022; "Holoscan Cloud Native v23.12 (v0.12.0) Release" from December 20, 2023; "Final Report on GenMol (f-MoDiff) NIM 12/23/2024: Successfully Deployed"; 2025 PagerDuty notifications naming "NIM Factory Service (Level 2 - NIM Factory Manager)"; "Top 5 Things - NIM Factory 4 - 2026/08/09"; "NIM MVSB OSRB/Legal Execution Status - 8/16/2026"; "Agent-Driven NIM Delivery: M2 Recap and M3 Direction"; and the August 2026 NIM Factory Pipelines platform-version transition confirmation request.
-- Slack evidence from the last six months included NIMCraft/NIM delivery coordination, SWQA handoff work, per-model benchmark configuration work, release validation discussion, and NIM Factory/NIMCraft issue ownership.
-- Exact HR-effective dates for title changes should be verified in Workday or an NVIDIA HR source. The resume uses evidence-backed project periods and conservative phrasing where the exact role start date was not directly visible in email.
