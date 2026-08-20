@@ -6,7 +6,7 @@ Resume and CV archive for **Sidney L. Bryson, Ph.D.** This repository keeps hist
 
 The current resume set is in [`2026-nvidia/`](2026-nvidia/):
 
-- [`sidney_bryson_nvidia_resume_v1.docx`](2026-nvidia/sidney_bryson_nvidia_resume_v1.docx) - long-form NVIDIA internal resume with project history and source notes.
+- [`sidney_bryson_nvidia_resume_v1.docx`](2026-nvidia/sidney_bryson_nvidia_resume_v1.docx) - long-form NVIDIA internal resume with project history.
 - [`sidney_bryson_nvidia_resume_v1.md`](2026-nvidia/sidney_bryson_nvidia_resume_v1.md) - Markdown source for the long-form version.
 - [`sidney_bryson_nvidia_resume_v2_1page.docx`](2026-nvidia/sidney_bryson_nvidia_resume_v2_1page.docx) - one-page NVIDIA internal resume summary.
 - [`sidney_bryson_nvidia_resume_v2_1page.md`](2026-nvidia/sidney_bryson_nvidia_resume_v2_1page.md) - Markdown source for the one-page version.
