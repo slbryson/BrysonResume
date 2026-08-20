@@ -1,5 +1,12 @@
 # BrysonResume
 My Resume, since every good Open Source professional keeps a copy on GitHub
+
+## Current NVIDIA Resume Versions
+
+- `2026-nvidia/sidney_bryson_nvidia_resume_v1.docx` - long-form NVIDIA internal resume with project history and source notes.
+- `2026-nvidia/sidney_bryson_nvidia_resume_v2_1page.docx` - one-page NVIDIA internal resume summary.
+- Matching Markdown source files are included in `2026-nvidia/` for review and diffability.
+
 **Sidney L.**  **Bryson, Ph.D.**
 
 (630)-430-6260 sidney@brysonworld.com
