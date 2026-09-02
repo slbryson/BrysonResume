@@ -1,6 +1,6 @@
 # SIDNEY BRYSON, PH.D.
 
-Engineering Manager | Solutions Architecture | AI Infrastructure & Cloud-Native GPU Platforms  
+Engineering Manager | Solutions Architecture | Retail AI, Edge AI & Cloud-Native GPU Platforms  
 US Remote | +1 331-228-0002 | sbryson@nvidia.com
 
 ## Profile
@@ -17,13 +17,11 @@ Lead engineering systems that build, validate, release, and operate NVIDIA Infer
 
 - Helped NIM Factory process 35,055 jobs in 7 days, up 111% week over week, while completion rose to 79.9%; supported KAI across all 8 clusters and all GPU SKUs, LWS rollout, and 22 multi-node SKUs.
 
-- Drove NIM Factory Pipelines platform-version migration and legacy retirement planning, using release data showing 74 of 172 NIMs since January 1, 2026 still used the legacy factory path.
-
-- Guided engineers through ambiguous production issues involving Kubernetes scheduling, benchmark failures, GPU capacity, NGC publishing, readiness signals, compliance gates, and model-to-hardware traceability.
+- Built release and readiness discipline around NGC publishing, SWQA handoffs, VDR, NSPECT/nSpect evidence, CVE remediation, model-to-hardware mapping, and production incident response.
 
 **NVIDIA | Holoscan Cloud Native Engineering Manager / Services Architect | 2021-2024**
 
-Led Clara/Holoscan cloud-native platform work for healthcare AI, low-latency sensor AI, and edge-to-cloud deployments. Connected product engineering with lighthouse customers, SDK/platform releases, cloud security, hardware validation, and repeatable customer deployment patterns.
+Led Clara/Holoscan cloud-native platform work for healthcare AI, low-latency sensor AI, computer vision pipelines, and edge-to-cloud deployments. Connected product engineering with lighthouse customers, SDK/platform releases, cloud security, hardware validation, and repeatable customer deployment patterns.
 
 - Coordinated Clara/Holoscan lighthouse work with UCSF, Mayo Jacksonville, MGB, and KCL/Answer Digital, including Clara Deploy as a Kubernetes orchestrator for inference workloads and Triton/MONAI medical AI integration.
 
@@ -53,13 +51,13 @@ Built systems architecture across telecom network platforms, wireless data syste
 
 ## Relevant Skills and Experience
 
+- Retail and edge AI: real-time video analytics, sensor AI, computer vision inference, edge-to-cloud deployment, performance readiness, customer pilots, and operational handoff patterns.
+
 - Customer architecture: executive workshops, discovery, technical sales, business-case development, reference architectures, PoC planning, field enablement, partner alignment, and product roadmap feedback.
 
-- AI and GPU platforms: NVIDIA NIM, NIM Factory, NIMCraft, Triton, TensorRT, TensorRT-LLM workflows, BioNeMo/GenMol launch readiness, Holoscan, Clara Deploy, MONAI, GPU benchmarking, and edge-to-cloud inference.
+- AI and GPU platforms: NVIDIA NIM, NIM Factory, NIMCraft, Triton, TensorRT, TensorRT-LLM workflows, Holoscan, Clara Deploy, MONAI, GPU benchmarking, and multi-node GPU readiness.
 
-- Cloud-native infrastructure: Kubernetes, Docker, Helm, Terraform, GitLab CI/CD, GPU Operator, KAI, LWS, EKS, AKS, GKE, OpenStack, Redfish/API integration, observability, and multi-node GPU platform readiness.
-
-- Release and quality systems: SWQA handoffs, OSRB/export-control coordination, VDR, NSPECT/nSpect, NGC publishing, CVE remediation, compliance automation, bug-ledger quality, release evidence, and production incident response.
+- Cloud-native infrastructure: Kubernetes, Docker, Helm, Terraform, GitLab CI/CD, GPU Operator, KAI, LWS, EKS, AKS, GKE, OpenStack, Redfish/API integration, observability, and production support.
 
 ## Education
 
