@@ -1,6 +1,14 @@
 # BrysonResume
 
-Resume and CV archive for **Sidney L. Bryson, Ph.D.** This repository keeps historical resume snapshots, the last pre-NVIDIA resume, and current NVIDIA-focused resume versions.
+Resume and CV archive for **Sidney L. Bryson, Ph.D.** This repository keeps historical resume snapshots, the last pre-NVIDIA resume, NVIDIA-focused base resumes, and role-specific application versions in Markdown, Word, PDF, and HTML.
+
+## Tailored Application Resumes
+
+Browse the [tailored-resume index](tailored-resumes/README.md) for versions organized by NVIDIA requisition number and revision date. The archive includes 38 Markdown resumes for 31 requisitions, with revisions through November 4, 2026. Available Word, PDF, and HTML versions are linked alongside their Markdown sources.
+
+Recent versions cover engineering management, AI infrastructure, GPU performance and validation, solutions architecture, customer enablement, and agentic workflows. Filenames retain their original requisition IDs and version dates so earlier applications remain distinguishable from later revisions.
+
+The November 2, 2026 versions for JR2019035 and JR2025803 each include matching Word and PDF exports in [`tailored-resumes/`](tailored-resumes/).
 
 ## Current NVIDIA Resume Versions
 
